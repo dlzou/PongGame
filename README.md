@@ -13,5 +13,7 @@ This is my first (feeble) attempt at game development and also my first reposito
 - **Down** arrow key to move paddle down
 
 ### Potential Improvements
+- Eliminate bugs
 - Set a max score to win the current round and start the next round
 - Have ball pause one second between points
+- **You can make more suggestions!**
