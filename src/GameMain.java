@@ -1,4 +1,4 @@
-//Daniel Zou. Using Slick2D.
+//Using Slick2D.
 
 package ponggame;
 import org.newdawn.slick.*;
